@@ -1,0 +1,19 @@
+{
+  "name": "ml-workflow",
+  "version": "1.0.0",
+  "description": "AI/ML 프로젝트를 위한 분석-설계-구현-리뷰 워크플로우 플러그인. 요구사항 분석부터 코드 리뷰까지 End-to-End 개발 사이클을 지원합니다.",
+  "author": {
+    "name": "choisubin"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ml",
+    "ai",
+    "workflow",
+    "requirements",
+    "architecture",
+    "code-review",
+    "backend"
+  ],
+  "repository": "https://github.com/choisubin/ml-workflow-plugin"
+}
